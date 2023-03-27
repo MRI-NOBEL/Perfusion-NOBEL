@@ -5,7 +5,7 @@ Pre-clinical DSC-MRI perfusion map generator written in Python. Optimized for th
 
 ## Getting Started
 
-This repository is currently being edited. The "Perfusion-NOBEL" folder includes the three scripts needed to execute the project using a python interpreter and installing the necessary libraries. 
+This repository is a work in progress. The "Perfusion-NOBEL" folder includes the three scripts needed to execute the project using a python interpreter and installing the necessary libraries. 
 
 An user manual, including a tutorial on how to obtain all the maps, will also be available soon.
 
