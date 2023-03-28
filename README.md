@@ -11,7 +11,7 @@ An user manual, including a tutorial on how to obtain all the maps, will also be
 
 ### Prerequisites
 
-The packages used in the released version of Perfusion-NOBEL are included in [requirements.txt](requirements.txt). Despite its name, using the versions listed in this list isnt much of a requierement as is information of which versions are known to work. 
+WIP
 
 
 ### Installing 
